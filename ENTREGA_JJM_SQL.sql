@@ -544,12 +544,6 @@ values ('2020', '3', '6');
 insert into ENTREGA_JJM_SQL.grupo_empresarial_anio (Anio_FABRICACION, ID_GRUPO_EMPRESARIAL, CODIGO_MARCA)
 values ('2021', '3', '6');
 
-insert into ENTREGA_JJM_SQL.grupo_empresarial_anio (Anio_FABRICACION, ID_GRUPO_EMPRESARIAL, CODIGO_MARCA)
-values ('2022', '3', '2');
-
-insert into ENTREGA_JJM_SQL.grupo_empresarial_anio (Anio_FABRICACION, ID_GRUPO_EMPRESARIAL, CODIGO_MARCA)
-values ('2023', '3', '2');
-
 
 -- SE INSERTAN TIPOS DE MONEDA 
 
